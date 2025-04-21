@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "id": "1745279365515",
+    "title": "Test Todo",
+    "completed": false
+  },
+  {
+    "id": "1745279365517",
+    "title": "Update Test",
+    "completed": true
+  }
+]

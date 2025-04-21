@@ -4,3 +4,4 @@ dist
 *.log
 *.envgit
 *.DS_Store
+.env
