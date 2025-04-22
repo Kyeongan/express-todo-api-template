@@ -1,15 +1,15 @@
 {
-  "name": "todo-api",
+  "name": "express-todo-api-template",
   "version": "1.0.0",
-  "main": "index.js",
+  "description": "A simple Node.js + Express REST API template for managing Todo lists.",
+  "main": "server.js",
   "scripts": {
-    "test": "jest",
-    "start": "nodemon server.js"
+    "start": "nodemon server.js",
+    "test": "jest"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": "",
+  "keywords": ["nodejs", "express", "todo", "api", "template", "rest"],
+  "author": "Karl Kwon",
+  "license": "MIT",
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^5.1.0",
@@ -17,6 +17,6 @@
   },
   "devDependencies": {
     "jest": "^29.7.0",
-    "supertest": "^7.1.0"
+    "supertest": "^7.3.3"
   }
 }
